@@ -8,10 +8,11 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=subashcommits&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/subashcommits)
 [![GitHub followers](https://img.shields.io/github/followers/subashcommits?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e)](https://github.com/subashcommits)
+[![Résumé](https://img.shields.io/badge/Résumé-View%20PDF-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/subashcommits/subashcommits/blob/main/resume.pdf)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
 
 ## 🧬 About Me
 
@@ -25,6 +26,15 @@ focus: [machine-learning, ai-assisted-development, security-tooling, automation]
 currently_seeking: AI/ML Internship
 fun_fact: "Every bug is just a feature waiting to be discovered."
 ```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes.vercel.app/quote?theme=tokyonight&border=true">
+  <img src="https://github-readme-quotes.vercel.app/quote?theme=default&border=true" alt="Random dev quote" />
+</picture>
+
+</div>
 
 <table>
 <tr>
@@ -42,11 +52,14 @@ Building practical, data-driven tools that sit at the intersection of AI and rea
 - 🤝 Open to AI/ML collaborations
 - 📫 `iamsubash2006@gmail.com`
 
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-00D9FF?style=flat-square&labelColor=1a1a2e)
+![Learning](https://img.shields.io/badge/Learning-ML%20%2B%20AI--Assisted%20Dev-8A2BE2?style=flat-square&labelColor=1a1a2e)
+
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
 
 ## 💼 Experience
 
@@ -88,7 +101,7 @@ Building practical, data-driven tools that sit at the intersection of AI and rea
 
 </details>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -107,17 +120,23 @@ Building practical, data-driven tools that sit at the intersection of AI and rea
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
 
 ## 📚 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/subashcommits/wordlist-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subashcommits&repo=wordlist-generator&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=subashcommits&repo=wordlist-generator&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subashcommits&repo=wordlist-generator&hide_border=true" alt="Wordlist Generator repo card" />
+  </picture>
 </a>
 <a href="https://github.com/subashcommits/json-to-toon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subashcommits&repo=json-to-toon&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=subashcommits&repo=json-to-toon&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subashcommits&repo=json-to-toon&hide_border=true" alt="JSON to TOON Converter repo card" />
+  </picture>
 </a>
 
 </div>
@@ -127,42 +146,71 @@ Building practical, data-driven tools that sit at the intersection of AI and rea
 | 🔐 [**Wordlist Generator**](https://github.com/subashcommits/wordlist-generator) | Customizable wordlist generation for password auditing & CTF/security testing with configurable combination rules | `Python` |
 | 🔄 [**JSON to TOON Converter**](https://github.com/subashcommits/json-to-toon) | Converts JSON to TOON (Token-Oriented Object Notation), cutting LLM token usage & improving prompt efficiency | `Python` `FastAPI` |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subashcommits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subashcommits&theme=tokyonight&hide_border=true" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=subashcommits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=subashcommits&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=subashcommits&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashcommits&hide_border=true" height="165" alt="GitHub Streak" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashcommits&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subashcommits&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashcommits&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subashcommits&theme=tokyo-night&hide_border=true" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=subashcommits&theme=tokyo-night&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subashcommits&hide_border=true" width="95%" alt="Contribution Activity Graph" />
+</picture>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
 
 ## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subashcommits&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=subashcommits&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8">
+  <img src="https://github-profile-trophy.vercel.app/?username=subashcommits&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</picture>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/subashcommits/subashcommits/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subashcommits/subashcommits/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/subashcommits/subashcommits/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+</picture>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
+
+## 🗻 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/subashcommits/subashcommits/profile-3d-contrib/profile-south-side-subashcommits.svg" width="100%" alt="3D Contribution Graph (south)" />
+<img src="https://raw.githubusercontent.com/subashcommits/subashcommits/profile-3d-contrib/profile-north-side-subashcommits.svg" width="100%" alt="3D Contribution Graph (north)" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
 
 ## 🌐 Connect With Me
 
@@ -171,6 +219,7 @@ Building practical, data-driven tools that sit at the intersection of AI and rea
 [![GitHub](https://img.shields.io/badge/GitHub-subashcommits-181717?style=for-the-badge&logo=github)](https://github.com/subashcommits)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ssubaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ssubaz)
 [![Gmail](https://img.shields.io/badge/Email-iamsubash2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsubash2006@gmail.com)
+[![Résumé](https://img.shields.io/badge/Résumé-Download-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/subashcommits/subashcommits/blob/main/resume.pdf)
 
 </div>
 
