@@ -162,26 +162,8 @@ Building practical, data-driven tools that sit at the intersection of AI and rea
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subashcommits&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashcommits&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=subashcommits&theme=tokyo-night&hide_border=true">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subashcommits&hide_border=true" width="95%" alt="Contribution Activity Graph" />
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3&width=100%25" width="100%"/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=subashcommits&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8">
-  <img src="https://github-profile-trophy.vercel.app/?username=subashcommits&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </picture>
 
 </div>
