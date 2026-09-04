@@ -1,112 +1,183 @@
-# 👋 Hello, I'm Subash S
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;CSE+(AIML)+Undergrad;Building+Developer+Tools;Security+%2B+Automation+Tinkerer" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=220&section=header&text=Subash%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Undergrad%20%7C%20Builder%20of%20Developer%20Tools&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=B.E.+CSE+(AIML)+%40+Class+of+2028;Machine+Learning+%2B+AI-Assisted+Dev;Security-Minded+Builder;Turning+Ideas+Into+Tools" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=subashcommits&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/subashcommits)
+[![GitHub followers](https://img.shields.io/github/followers/subashcommits?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e)](https://github.com/subashcommits)
+
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+## 🧬 About Me
 
-I'm a CSE (AIML) undergraduate passionate about building practical developer tools and AI-focused utilities. I enjoy applying machine learning and AI-assisted development to solve real-world problems, and I'm always looking to sharpen my skills across ML pipelines, backend APIs, and automation.
+```yaml
+name: Subash S
+role: AI/ML Undergraduate & Developer Tools Builder
+location: Tamil Nadu, India
+degree: B.E. CSE (AIML) @ Dr. Mahalingam College of Engineering and Technology
+graduating: 2028
+focus: [machine-learning, ai-assisted-development, security-tooling, automation]
+currently_seeking: AI/ML Internship
+fun_fact: "Every bug is just a feature waiting to be discovered."
+```
 
-- 🎓 **Studying:** B.E. CSE (AIML) at Dr. Mahalingam College of Engineering and Technology, Pollachi — Class of 2028
-- 🔭 **Currently Building:** Practical AI/dev tooling — from wordlist generators to token-efficient data formats
-- 🌱 **Learning:** Machine learning pipelines, AI-assisted development, and security fundamentals
-- 👯 **Open to Collaboration:** On AI/ML projects, developer tooling, and automation workflows
-- 💬 **Ask Me About:** Machine learning, FastAPI backends, N8N automation, and CTF/security tooling
-- 📫 **Reach Me:** [iamsubash2006@gmail.com](mailto:iamsubash2006@gmail.com) · [Create an Issue](https://github.com/subashcommits/subashcommits/issues)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🎯 What drives me
+Building practical, data-driven tools that sit at the intersection of AI and real-world usability — from token-efficient data formats for LLMs to security tooling for CTFs.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Right now
+- 🔭 Building AI/dev tooling projects
+- 📚 Deepening ML pipeline & backend skills
+- 🤝 Open to AI/ML collaborations
+- 📫 `iamsubash2006@gmail.com`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 💼 Experience
 
-**Cyber Security Intern** — Smarted Innovations, Remote *(Dec 2025)*
+<table>
+<tr>
+<th align="left">Role</th>
+<th align="left">Company</th>
+<th align="left">When</th>
+</tr>
+<tr>
+<td>🛡️ Cyber Security Intern</td>
+<td>Smarted Innovations · Remote</td>
+<td><code>Dec 2025</code></td>
+</tr>
+<tr>
+<td>🤖 Machine Learning Intern</td>
+<td>Codetech IT · Remote</td>
+<td><code>Aug 2025</code></td>
+</tr>
+</table>
+
+<details>
+<summary><b>🛡️ Cyber Security Intern — details</b></summary>
+<br/>
+
 - Studied core cybersecurity concepts, including threat modeling and attack vectors
 - Learned industry best practices and fundamental security principles
 - Built a foundation for practical penetration testing and security tooling
 
-**Machine Learning Intern** — Codetech IT, Remote *(Aug 2025)*
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning Intern — details</b></summary>
+<br/>
+
 - Built and evaluated regression and classification models using supervised learning
 - Performed data preprocessing and feature engineering on Kaggle datasets
-- Worked on improving prediction accuracy across the full ML pipeline, from raw data to trained models
+- Worked across the full ML pipeline, from raw data preparation to trained models
 
----
+</details>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI / ML:**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Backend & Automation:**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Postman](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,fastapi,sklearn,pandas,git,github,vscode,linux,postman&theme=dark" />
 
 </div>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subashcommits&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashcommits&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![AI Assisted Dev](https://img.shields.io/badge/AI--Assisted%20Dev-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+
 </div>
 
----
+<br/>
 
 ## 📚 Featured Projects
 
-### 🔐 [Wordlist Generator](https://github.com/subashcommits/wordlist-generator)
-A customizable wordlist generation tool for password auditing and CTF/security testing, supporting configurable word combination rules.
+<div align="center">
 
-### 🔄 [JSON to TOON Converter](https://github.com/subashcommits/json-to-toon)
-A Python FastAPI tool that converts JSON to TOON (Token-Oriented Object Notation), reducing LLM token usage and improving prompt efficiency for AI workflows.
+<a href="https://github.com/subashcommits/wordlist-generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subashcommits&repo=wordlist-generator&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/subashcommits/json-to-toon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subashcommits&repo=json-to-toon&theme=tokyonight&hide_border=true" />
+</a>
 
----
+</div>
 
-## 🎯 What I'm Focused On
+| Project | Description | Stack |
+|---|---|---|
+| 🔐 [**Wordlist Generator**](https://github.com/subashcommits/wordlist-generator) | Customizable wordlist generation for password auditing & CTF/security testing with configurable combination rules | `Python` |
+| 🔄 [**JSON to TOON Converter**](https://github.com/subashcommits/json-to-toon) | Converts JSON to TOON (Token-Oriented Object Notation), cutting LLM token usage & improving prompt efficiency | `Python` `FastAPI` |
 
-✨ **Building:** Reliable, data-driven AI/ML solutions and developer tools
+<br/>
 
-🔬 **Exploring:** Machine learning pipelines, AI-assisted development, and security tooling
+## 📊 GitHub Analytics
 
-🤝 **Contributing:** To open-source projects in the AI/ML and dev-tools space
+<div align="center">
 
-💡 **Skills:** Project Management · N8N Automation · AI-Assisted Development · API Testing · FastAPI Backend · Video Editing
+<img src="https://github-readme-stats.vercel.app/api?username=subashcommits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subashcommits&theme=tokyonight&hide_border=true" height="165"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashcommits&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
-## 🌐 Let's Connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subashcommits&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=subashcommits&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/subashcommits/subashcommits/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-subashcommits-181717?style=for-the-badge&logo=github)](https://github.com/subashcommits)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ssubaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ssubaz)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsubash2006@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-iamsubash2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsubash2006@gmail.com)
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D9FF&height=120&section=footer" width="100%"/>
 
 <div align="center">
-
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀**
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=subashcommits.subashcommits)
-
+<sub>⭐ Thanks for stopping by — feel free to explore my repos and reach out!</sub>
 </div>
