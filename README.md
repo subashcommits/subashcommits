@@ -205,8 +205,10 @@ Building practical, data-driven tools that sit at the intersection of AI and rea
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/subashcommits/subashcommits/profile-3d-contrib/profile-south-side-subashcommits.svg" width="100%" alt="3D Contribution Graph (south)" />
-<img src="https://raw.githubusercontent.com/subashcommits/subashcommits/profile-3d-contrib/profile-north-side-subashcommits.svg" width="100%" alt="3D Contribution Graph (north)" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subashcommits/subashcommits/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/subashcommits/subashcommits/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
+</picture>
 
 </div>
 
