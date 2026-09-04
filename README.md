@@ -1,21 +1,35 @@
-# 👋 Hello, I'm Subash!
+# 👋 Hello, I'm Subash S
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;CSE+(AIML)+Undergrad;Building+Developer+Tools;Security+%2B+Automation+Tinkerer" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. I enjoy tackling complex problems, learning new technologies, and collaborating with amazing developers from around the world.
+I'm a CSE (AIML) undergraduate passionate about building practical developer tools and AI-focused utilities. I enjoy applying machine learning and AI-assisted development to solve real-world problems, and I'm always looking to sharpen my skills across ML pipelines, backend APIs, and automation.
 
-- 🔭 **Currently Working On:** Building scalable applications and exploring new tech stacks
-- 🌱 **Learning:** Advanced system design patterns and cloud-native technologies
-- 👯 **Open to Collaboration:** On open-source projects and exciting ideas
-- 💬 **Ask Me About:** Web development, APIs, databases, and best practices
-- 📫 **Reach Me:** [Create an Issue](https://github.com/subashcommits/subashcommits/issues)
-- ⚡ **Fun Fact:** I believe every bug is just a feature waiting to be discovered!
+- 🎓 **Studying:** B.E. CSE (AIML) at Dr. Mahalingam College of Engineering and Technology, Pollachi — Class of 2028
+- 🔭 **Currently Building:** Practical AI/dev tooling — from wordlist generators to token-efficient data formats
+- 🌱 **Learning:** Machine learning pipelines, AI-assisted development, and security fundamentals
+- 👯 **Open to Collaboration:** On AI/ML projects, developer tooling, and automation workflows
+- 💬 **Ask Me About:** Machine learning, FastAPI backends, N8N automation, and CTF/security tooling
+- 📫 **Reach Me:** [iamsubash2006@gmail.com](mailto:iamsubash2006@gmail.com) · [Create an Issue](https://github.com/subashcommits/subashcommits/issues)
+
+---
+
+## 💼 Experience
+
+**Cyber Security Intern** — Smarted Innovations, Remote *(Dec 2025)*
+- Studied core cybersecurity concepts, including threat modeling and attack vectors
+- Learned industry best practices and fundamental security principles
+- Built a foundation for practical penetration testing and security tooling
+
+**Machine Learning Intern** — Codetech IT, Remote *(Aug 2025)*
+- Built and evaluated regression and classification models using supervised learning
+- Performed data preprocessing and feature engineering on Kaggle datasets
+- Worked on improving prediction accuracy across the full ML pipeline, from raw data to trained models
 
 ---
 
@@ -24,29 +38,23 @@ I'm a passionate developer who loves building innovative solutions and contribut
 <div align="center">
 
 **Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**AI / ML:**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Databases:**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Backend & Automation:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Tools & Platforms:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
@@ -61,39 +69,42 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ---
 
-## 🎯 What I'm Focused On
+## 📚 Featured Projects
 
-✨ **Building:** Robust, scalable, and user-friendly applications
+### 🔐 [Wordlist Generator](https://github.com/subashcommits/wordlist-generator)
+A customizable wordlist generation tool for password auditing and CTF/security testing, supporting configurable word combination rules.
 
-🔬 **Exploring:** AI/ML integration, DevOps practices, and microservices
-
-🤝 **Contributing:** To open-source communities and helping fellow developers
-
-💡 **Sharing:** Knowledge through code, documentation, and collaboration
+### 🔄 [JSON to TOON Converter](https://github.com/subashcommits/json-to-toon)
+A Python FastAPI tool that converts JSON to TOON (Token-Oriented Object Notation), reducing LLM token usage and improving prompt efficiency for AI workflows.
 
 ---
 
-## 📚 Latest Projects
+## 🎯 What I'm Focused On
 
-Check out my repositories to see what I've been working on! Each project reflects my passion for clean code and innovative solutions.
+✨ **Building:** Reliable, data-driven AI/ML solutions and developer tools
+
+🔬 **Exploring:** Machine learning pipelines, AI-assisted development, and security tooling
+
+🤝 **Contributing:** To open-source projects in the AI/ML and dev-tools space
+
+💡 **Skills:** Project Management · N8N Automation · AI-Assisted Development · API Testing · FastAPI Backend · Video Editing
 
 ---
 
 ## 🌐 Let's Connect
 
 <div align="center">
-  
+
 [![GitHub](https://img.shields.io/badge/GitHub-subashcommits-181717?style=for-the-badge&logo=github)](https://github.com/subashcommits)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ssubaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ssubaz)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsubash2006@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=subashcommits.subashcommits)
